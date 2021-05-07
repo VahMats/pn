@@ -1,0 +1,363 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head{
+    background-image: url(header.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+    width: 100%;
+    height: 1000px;
+    box-shadow: 0px 15px 10px gray;
+}
+.logo1{
+    margin: 100px;
+    width: 80px;
+    height: 100px;
+}
+.logo2{
+    width: 80px;
+    height: 80px;
+    margin: 100px;
+    border: 3px solid white;
+    padding: 10px;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+.glavka{
+    color: white;
+    display: flex;
+    justify-content: center;
+
+
+}
+.text{
+    text-decoration: overline underline;
+    font-size: 130px;
+    margin-block-end: 0px;
+
+}
+.glavka0{
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+.text0{
+    margin-top: 5px;
+    font-size: 45px;
+}
+.blok2{
+    width: 80%;
+    margin: 0 auto;
+    /* height: 800px; */
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* .gyada{
+
+} */
+.vernagir{
+    font-weight: 900;
+    font-size: 30px;
+}
+.texti{
+width: 50%;
+}
+button{
+    background-color: #FC2C4B;
+    border: inherit;
+    /* width: 180px;
+    height: 30px; */
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+}
+.text2{
+    font-size: 20px;
+}
+.naxiu{
+      background-color: grey;
+    width: 100%;
+    padding-top: 40px;
+    padding-block-end: 60px;
+}
+.blok3{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-block-end: 50px;
+}
+.text3{
+    text-align: center;
+    font-size: 80px;
+    margin: 5px;
+}
+.text4{
+    font-size:20px ;
+    margin-top: 0px;
+    text-align: center;
+}
+.mark{
+    width: 23%;
+    height: 300px;
+    /* border: 1px solid red; */
+    padding-top: 50px;
+    background-color: #12C5FF;
+}
+.logo3{
+    width: 70px;
+    height: 70px;
+}
+.marker{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.text5{
+    font-size: 40px;
+    margin: 0px;
+}
+.guyn{
+    background-color: #845AEE;
+}
+.guyn0{
+    background-color: #022454;
+}
+.guyn1{
+    background-color: #FC2C4B;
+}
+.blok4{
+    background-image: url(city.jpg);
+    /* height: 1100px; */
+    width: 100%; 
+    background-size: cover ;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+    padding-block-end: 100px;
+}
+.xui{
+    width: 80%;
+    margin:0 auto ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.info{
+    background-color: #513b45af;
+    /* height: 800px; */
+    width: 40%;
+    padding:30px 40px;
+}
+.text6{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+.text7{
+    color: white;
+    font-size: 20px;
+
+}
+.blok5{
+    width: 80%;
+    margin: 0 auto;
+    padding-top:40px;
+    padding-block-end: 40px;
+    /* border: 1px solid red; */
+    text-align: center;
+    
+}
+.text8{
+    font-size: 40px;
+    font-weight: 700;
+    margin-block-end: 2px;
+    
+}
+.forus{
+    font-size: 30px;
+    color: red;
+
+}
+.text9{
+    font-size: 20px;
+
+}
+.eg{
+    width: 350px;
+    height: 350px;
+
+}
+
+.virev{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.eg1{
+    width: 42.2%;
+    height: 350px;
+    background-image: url(pf2.jpg);
+    background-size: cover;
+
+}
+.nerqiv{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+.bleat{
+    background-color: #DDDFEC;
+    width: 94%;
+    padding-left: 6%;
+}
+.blok6{
+    width: 80%;
+    margin: 0 auto;
+    height: 800px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.ach{
+    height: 100%;
+    width: 50%;
+    /* border: 1px solid red; */
+    /* padding-top: 150px;
+    padding-left: 80px; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+
+}
+.chort{
+    width: 100px;
+    height: 100px;
+    background-color: black; 
+}
+.text10{
+    font-size: 25px;
+
+}
+.text11{
+    font-size: 40px;
+    margin-block-end: 0px;
+
+}
+.pizdec{
+    width: 100%;
+    background-image: url(contact2.jpg);
+    height: 900px;
+    background-size:100% ;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
+.blok7{
+    margin: 0 auto;
+    width: 80%;  
+    /* padding-top: 120px; */
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+    
+}
+.leave{
+    width: 40%;
+    height: 800px;
+    /* border: 1px solid blue; */
+    padding: 20px 40px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #513b45af;
+}
+.name{
+    width: 80%;
+    height: 50px;
+    border: 1px solid white;
+    background-color: inherit;
+    color: white;
+    font-size: 20px;
+}
+.namak{
+    width: 80%;
+    height: 150px;
+    background-color: inherit;
+    color: white;
+    border: 1px solid white;
+    font-size: 20px;
+}
+.text12{
+    /* display: block; */
+    color: white;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: left;
+
+}
+.contact{
+    width: 40%;
+    height: 840px;
+    /* border: 1px solid blue; */
+    /* padding: 20px 40px; */
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: #513b45af;   */
+    
+}
+.address{
+    width: 100%;
+    height: 30%;
+    background-color: #513b45af;
+    box-sizing: border-box;
+    padding: 20px 40px;
+}
+.text13{
+    font-size: 20px;
+    color: white;
+
+}
+textarea::placeholder{
+color: white;
+
+}
+textarea{
+    resize: none;
+}
+.leave_box{
+    width: 80%;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
